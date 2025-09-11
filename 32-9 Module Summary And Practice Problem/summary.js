@@ -29,7 +29,7 @@ Now convert this array into an even array (array with even numbers). [2, 4, 6, 8
 
 // ============================ Practice Problem reduce() =============================
 
-1. You have an array [1, 9, 17, 22]. Add the all elements of this array and give output. Do this using 'for loop' & 'array.reduce() method.
+1. You have an array [1, 9, 17, 22]. Add the all elements of this array and give output. Do this using 'for loop' & 'array.reduce()' method.
 
 // ============================ Practice Problem reduce() =============================
 
